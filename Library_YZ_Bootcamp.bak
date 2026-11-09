@@ -1478,8 +1478,12 @@
 	)
 	(symbol "GND_perso"
 		(power global)
+		(pin_numbers
+			(hide yes)
+		)
 		(pin_names
 			(offset 0.3048)
+			(hide yes)
 		)
 		(exclude_from_sim yes)
 		(in_bom no)
